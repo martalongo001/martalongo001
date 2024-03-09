@@ -1,4 +1,4 @@
-/></a>![banner(2)](https://github.com/martalongo001/martalongo001/assets/128149220/204e413f-ad1d-40db-9155-765a84e934b3)
+</a>![banner(2)](https://i.pinimg.com/originals/a9/4a/ee/a94aee835e16cff4f14c83dac8ffbe10.gif)
 <h1 align="center">Hi 👋, I'm Marta Longo</h1>
 <h3 align="center">A passionate IA student</h3>
 <img align = "right" alt = "Coding" width="400" src= "https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
