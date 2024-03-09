@@ -1,4 +1,9 @@
-[![MasterHead](https://i.pinimg.com/originals/a9/4a/ee/a94aee835e16cff4f14c83dac8ffbe10.gif)](https://rishavchanda.io)
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://i.pinimg.com/originals/a9/4a/ee/a94aee835e16cff4f14c83dac8ffbe10.gif" alt=”my banner”>
+
+</p>
+
 <h1 align="center">Hi 👋, I'm Marta Longo</h1>
 <h3 align="center">A passionate IA student</h3>
 <img align = "right" alt = "Coding" width="400" src= "https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
