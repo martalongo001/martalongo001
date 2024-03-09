@@ -1,7 +1,5 @@
 <p align=”center”>
-
 <img width=”200" height=”200" src=”https://i.pinimg.com/originals/a9/4a/ee/a94aee835e16cff4f14c83dac8ffbe10.gif" alt=”my banner”>
-
 </p>
 
 <h1 align="center">Hi 👋, I'm Marta Longo</h1>
