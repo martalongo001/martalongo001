@@ -1,11 +1,11 @@
-![logo](https://i.pinimg.com/originals/a9/4a/ee/a94aee835e16cff4f14c83dac8ffbe10.gif)
+/></a>![banner(2)](https://github.com/martalongo001/martalongo001/assets/128149220/204e413f-ad1d-40db-9155-765a84e934b3)
 <h1 align="center">Hi 👋, I'm Marta Longo</h1>
 <h3 align="center">A passionate IA student</h3>
 <img align = "right" alt = "Coding" width="400" src= "https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/martalongo051104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/martalongo051104" height="30" width="40" /></a>![banner(2)](https://github.com/martalongo001/martalongo001/assets/128149220/204e413f-ad1d-40db-9155-765a84e934b3)
+<a href="https://linkedin.com/in/www.linkedin.com/in/martalongo051104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/martalongo051104" height="30" width="40" 
 
 <a href="https://instagram.com/m.longo01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.longo01" height="30" width="40" /></a>
 </p>
